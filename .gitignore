@@ -1,0 +1,7 @@
+./class_db/*jsonl
+./closedqa_db/*jsonl
+./intent_db/*jsonl
+./keyword_db/*jsonl
+./openqa_prompt_db/*jsonl
+./persona_db/*json
+./frontend/*.out
